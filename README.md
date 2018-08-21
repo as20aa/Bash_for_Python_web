@@ -1,0 +1,2 @@
+# Bash_for_Python_web
+python架站自动配置环境脚本
